@@ -1,0 +1,5 @@
+
+*.ipynb linguist-language=Jupyter Notebook
+*.py text
+*.csv text
+*.md text
